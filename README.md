@@ -1,3 +1,8 @@
+# About Project
+1.Used coingeeko live  API to fetch the details of the live changes of the crypto coins.\
+2.Used Chakra UI library for UI.
+3.Check the live project link
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
