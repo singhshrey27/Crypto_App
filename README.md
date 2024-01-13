@@ -1,6 +1,7 @@
 # About Project
 1.Used coingeeko live  API to fetch the details of the live changes of the crypto coins.\
 2.Used Chakra UI library for UI.
+Live Project Link: crypto-app-bice-seven.vercel.app
 
 # Getting Started with Create React App
 
